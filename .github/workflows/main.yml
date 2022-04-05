@@ -29,5 +29,5 @@ jobs:
         env:
           USERS: ${{ secrets.USERS }}
           WECOM: ${{ secrets.WECOM }}
-          DATA_DAILY: ${{ secrets.DATA_DAILY }}
-          DATA_REPORT: ${{ secrets.DATA_REPORT }}
+#           DATA_DAILY: ${{ secrets.DATA_DAILY }}
+#           DATA_REPORT: ${{ secrets.DATA_REPORT }}
